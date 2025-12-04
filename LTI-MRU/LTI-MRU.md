@@ -1,0 +1,67 @@
+# Optimized ATS Customer Journey for LTI
+
+| Step | Focus/Stage | Key ATS Functionalities (P1-P4) | Structured Hiring/Ease-of-Use Component | P. Level |
+| :--- | :--- | :--- | :--- | :--- |
+| **1. Job Creation** | **Internal Setup** | * **P2: Internal Collaboration Tools:** Hiring Manager and Recruiter define the job description and ideal candidate profile together. * **P3: Basic Compliance:** EEO/OFCCP data fields are enabled by default for the job posting. | **Structured:** **Job Scorecard Setup.** Define specific, role-related competencies and success criteria *before* the job goes live. | P2 |
+| **2. Distribution** | **Sourcing** | * **P1: Branded Career Page:** Job is posted automatically to your customizable page. * **P3: Job Board Posting Integration:** One-click distribution to free/paid boards. * **P2: Internal Job Postings:** Visibility to current employees via a separate internal portal. | **Ease-of-Use:** Single, centralized interface to manage all posting locations with minimal clicks. | P1/P3 |
+| **3. Application** | **Candidate Entry** | * **P1: Customizable Pipeline:** Candidate enters the "Applied" stage automatically. * **P1: Candidate Profile Creation/Parsing:** Resume data is captured efficiently, minimizing manual entry for the candidate. * **P2: Automated Acknowledgment:** Immediate, templated email sent to the candidate. | **Ease-of-Use:** Short, streamlined application flow with no required account creation to maximize completion rate. | P1 |
+| **4. Screening** | **Initial Review** | * **P1: Centralized Database:** Recruiter views the standardized candidate profile. * **P2: Internal Collaboration Tools:** Recruiter uses a preliminary screening scorecard (based on the Job Scorecard) to log initial notes. | **Structured:** Screeners are trained to only evaluate the specific, predefined **screening criteria** for consistency. | P1/P2 |
+| **5. Interview** | **Assessment** | * **P2: Interview Scheduling:** Recruiter uses calendar integration (e.g., Google/Outlook) to send a self-scheduling link to the candidate and team. * **P1: Customizable Pipeline:** Candidate moves to the appropriate Interview stage (e.g., "Hiring Manager Interview"). | **Structured:** **Mandatory Interview Scorecards.** Interviewers must use pre-set, competency-based questions and submit a completed scorecard *before* seeing others' feedback, reducing bias. | P2 |
+| **6. Feedback & Consensus** | **Decision Making** | * **P1: Centralized Database:** All feedback, documents, and communications are stored under the candidate's profile. * **P2: Internal Collaboration Tools:** Hiring team reviews *only* the structured scorecards and final notes. | **Structured:** **Debrief Meeting.** The ATS should provide a clear view that flags missing information and shows structured rating comparisons, guiding the team toward a data-driven consensus. | P1/P2 |
+| **7. Offer & Close** | **Finalization** | * **P3: Offer Management:** Generate and send a standardized offer letter for e-signature within the system. * **P1: Customizable Pipeline:** Candidate status is updated to "Hired." | **Ease-of-Use:** The offer process is simplified through templating and integrated e-signing, avoiding document management outside the ATS. | P3 |
+| **8. Analysis** | **Review & Learn** | * **P3: Reporting & Analytics:** Track key metrics like Time-to-Hire and Conversion Rates by stage for the specific job. * **P4: Recruiting CRM (Talent Pool):** Rejected "silver medalists" are tagged and saved for future roles. | **Structured:** Review the data to see which interview stages or scorecards correlated best with the eventual quality of hire, allowing for continuous process improvement. | P3/P4 |
+
+## 🌟 LTI Software: Overview
+
+LTI Software is a **private Applicant Tracking System (ATS)** designed to help small, high-growth startups implement **structured, unbiased hiring processes** with minimal administrative burden. It combines the collaboration and analytical rigor of enterprise tools with the simplicity and speed required by lean startup teams.
+
+---
+
+### Added Value and Competitive Advantages
+
+| Category | Added Value (What it does for the customer) | Competitive Advantage (Why it's better) |
+| :--- | :--- | :--- |
+| **Structured Hiring** | Guarantees that every candidate is evaluated against the same **objective criteria** at every stage. | **Bias Reduction at the Core:** Mandates **Scorecards** and structured feedback *before* interview debriefs, ensuring hiring quality is based on data, not gut feeling. |
+| **User Experience** | Provides a seamless, clean, and intuitive platform for recruiters, hiring managers, and candidates. | **"Greenhouse Rigor, JazzHR Simplicity":** Designed for **ease-of-use** with minimal training required, reducing friction and speeding up adoption by non-HR employees (Hiring Managers). |
+| **Internal Mobility** | Provides a clear, fast track for existing employees to apply for new roles. | **Dual-Track Workflow:** Dedicated, simplified application paths and communication templates for **internal candidates**, improving employee retention and engagement. |
+| **Speed & Efficiency** | Automates the most time-consuming administrative tasks, like scheduling and initial communication. | **Quick-Launch Pipelines:** Pre-built, customizable **Kanban-style pipelines** allow startups to post a job and start accepting applications in under 15 minutes. |
+
+---
+
+## 🛠️ Main Functions of LTI Software
+
+### 1. Core Candidate Management (P1 Focus)
+* **Resume Parsing & Candidate Profile:** Automatically extracts data from resumes/CVs to create a standardized candidate profile in the system.
+* **Branded Career Page:** A customizable, simple interface for hosting all open jobs and managing the application flow.
+* **Customizable Pipeline:** Drag-and-drop interface for moving candidates through predefined stages (e.g., Applied, Screen, Interview, Offer).
+
+### 2. Structured Collaboration & Communication (P2 Focus)
+* **Mandatory Interview Scorecards:** Custom forms based on job-specific competencies that interviewers *must* complete before seeing others' feedback or finalizing a decision.
+* **Automated Communication:** Templated email triggers (e.g., Application Confirmation, Rejection, Interview Invitation) connected to pipeline stage changes.
+* **Integrated Scheduling:** Direct two-way sync with Google/Outlook calendars, allowing candidates to self-schedule interviews using pre-set interviewer availability.
+
+### 3. Reporting, Compliance, and Sourcing (P3/P4 Focus)
+* **Recruiting Analytics:** Basic reports on key metrics like **Time-to-Hire**, **Conversion Rates by Stage**, and **Source of Hire**.
+* **Job Distribution:** Single-point posting to various external job boards (free and paid).
+* **Talent Pool/CRM:** Functionality to tag, categorize, and search past candidates ("silver medalists") for future roles.
+* **Compliance Tracking:** Fields for tracking EEO data, consent, and data retention rules required for growing companies.
+
+---
+
+## 🖼️ LTI Software: Consolidated Lean Canvas Business Model
+
+| Block | Details for LTI Software |
+| :--- | :--- |
+| **Problem** | 1. Hiring is subjective and biased. 2. Manual scheduling and candidate communication consumes high time for small teams. 3. Difficulty tracking and nurturing internal talent. 4. Slow, manual processes with a fragmented candidate UI. |
+| **Solution** | 1. Mandatory **structured interview scorecards**. 2. Automated scheduling and templated communications. 3. **Dual-track pipeline** for internal/external candidates. |
+| **Unique Value Proposition** | **Structured Hiring Simplified:** Implement rigorous, unbiased hiring processes with the **ease-of-use of a startup tool.** |
+| **Unfair Advantage** | Proprietary **AI-driven Structured Interview Flow** combined with the founding team's expertise in HR tech and compliance. |
+| **Customer Segments** | **Early-Stage** High-Growth Startups (50-250 employees), SMBs, HR Teams prioritizing quality, fairness, and internal mobility. |
+| **Key Metrics** | **Time-to-Hire** / Time-Fill Completion Rate, **Conversion Rate** by Stage-to-Stage, Interviewer Feedback Completion Rate, Candidate Satisfaction Rate. |
+| **Key Activities** | Product Development, Cloud Infrastructure Management, Sales & Marketing. |
+| **Key Resources** | Engineering Talent, Mandatory Scorecard Framework, Biased/Consistent Hiring Methodology, Strong Customer Feedback Loop. |
+| **Channels** | Website/Blog, Content Marketing, Social, Referrals, HR Tech Directories, Direct Sales. |
+| **Cost Structure** | Cloud Hosting (AWS/Azure), Software Development Salaries, Sales & Marketing Overheads, Legal & Compliance. |
+| **Revenue Streams** | Tiered **SaaS Subscription Fees** (based on # users/employees or # jobs), Add-on Modules (Premium features), Custom Integration Fees. |
+| **Key Partners** | Job Boards (Indeed, LinkedIn), Calendar APIs (Google/Outlook), E-Signature/HRIS/Payroll Systems. |
+| **Customer Relationships** | Self-Serve Onboarding/Chat, In-App Support/Chat, Community Success. |
