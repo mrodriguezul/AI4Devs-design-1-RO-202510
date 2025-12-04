@@ -41,3 +41,12 @@ This project will be named: LTI Software. OK?
 Brief description of the LTI Software, its added value, and competitive advantages. Explanation of the main functions. Include a Lean Canvas diagram to illustrate the business model.
 Show me the Overview, main functions and the Lean canvas diagram in markdown format.
 
+## USER PROMPT 5
+
+Now, I need you to act as a System Analyst with experience as a Project Manager.
+Create a Use Case diagram in markdown format (Using PlanUML)
+
+## USER PROMPT 6
+
+Now, list me the three most important use cases, tell me why they are the most importants and give a description of each one in markdown format.
+

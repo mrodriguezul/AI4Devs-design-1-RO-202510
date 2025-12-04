@@ -65,3 +65,49 @@ LTI Software is a **private Applicant Tracking System (ATS)** designed to help s
 | **Revenue Streams** | Tiered **SaaS Subscription Fees** (based on # users/employees or # jobs), Add-on Modules (Premium features), Custom Integration Fees. |
 | **Key Partners** | Job Boards (Indeed, LinkedIn), Calendar APIs (Google/Outlook), E-Signature/HRIS/Payroll Systems. |
 | **Customer Relationships** | Self-Serve Onboarding/Chat, In-App Support/Chat, Community Success. |
+
+## 📐 LTI Software: Use Case Diagram (PlantUML)
+![LTI Software Use Case Diagram](https://uml.planttext.com/plantuml/png/RLLDRzim3BqRy7yWUjZQGzlx3aMpj5qoj5YGTBiMYiqaGcN9aEHcnhR_FbAoPJljgUNZ4pyUIUVMUM5zKobuV5w-RCpE7uN5bvyEN-R2OPwvLwbhOKK5el36Rdoh4CGHdQd8csSATnwy0Ilt1m-bj5XuQJIxmWCucmjTob9uF0FXWAtaMcgFLWi5zrMjJ8kHGYZPYRJ6mZQIY70DYtLW49JS2scbtiEJq6AFDhWNJycxQPt72cPb9RLqtWf20oSWYNR_koiaybsW44WcTy9D2RsdpiSgmPyy0sWS5gGKdCtgMhMmet3VpJRcO6J2-INn2AbhuiLC31CweLAFADyGvgQg6YqBmR962GcPK3VDjf8-ndtZ30-8vLOKhu7EneGUfUBii3BEitgVO2LhL5B72KG6EwSTDjvKD4X88_sWEYQzhx0uODcGVgd6s7YFJyZVKAFbu3zsEvhw8thV3JO0xmNjDeGRcP6khPT539-iZ_gd7RUmDWeTju-saivH4swaGF1E6q4FTy8BokbHSzEaePA5nFYEVG6OpdtJwe9KKwXBOM7s9gGIMwcaRwCCv2RlvCcgSOSm8pek_lFL25l69EmYQ49VLhMnVZIPKENvIbX7kbp4mmeSTkJPFzxhpoF-WpB7F6CRBYzl-jrDTXnfCkDISOHtDnmYmVccnaBkP76HP_6WwTtVcv0GlW3ImUdIZNmtmnLmsEdLTp7dXgvkzhpfnbFH12WyKSFxyTRssB2DFJAiN8zqMvMU34lJGsFXkBZfDoSLfsYenePJe9Mwe_vveOZsoYF8iyNJIPqaXDI5QahUiiuRbUsCKIqTCfJFXPn-j_8iVhGYjT-g4PPMPuITThT65Nfm1rcxwoKN60uZpqQLNrqDuaxQEE6aonzpugUItKFk2I6z2Y5Y7qIWRUVNVLfsTlcZXwkVVEfvAhIMKkW2QIHqlKrDWmYSqIowEn_WyHcVahl1fGtEirlwXtv2_mC0)
+
+
+## 🥇 Top 3 Most Important Use Cases for LTI Software
+
+| Priority Rank | Use Case Name | Primary Actor | Rationale for Importance (Startup & Structured Focus) |
+| :--- | :--- | :--- | :--- |
+| **1** | **Manage Job Posting & Pipeline** | Recruiter / HR, Hiring Manager | **Core Business Need (P1):** This is the fundamental function of any ATS. Essential for job posting, candidate tracking, and workflow management, replacing manual spreadsheets and emails. |
+| **2** | **Submit Interview Feedback (Structured)** | Hiring Manager, Internal Employee | **Competitive Advantage (P2 - Structured Hiring):** Implements the Unique Value Proposition. Ensures hiring decisions are based on objective scorecards, directly improving the **Quality of Hire** and reducing bias. |
+| **3** | **View Internal Jobs** | Internal Employee | **Strategic Goal (P2/P3 - Internal Mobility):** Supports employee retention and leverages existing talent. Making this path friction-free is a high ROI strategy for a growing company. |
+
+---
+
+## 📝 Use Case Descriptions
+
+### 1. Manage Job Posting & Pipeline
+
+| Detail | Description |
+| :--- | :--- |
+| **Goal** | To create, publish, distribute, and manage the flow of candidates for a specific open role from application through hiring. |
+| **Actors** | Recruiter / HR, Hiring Manager, System Administrator |
+| **Pre-conditions** | The job description and hiring team are finalized. The required **Job Scorecard** competencies must be defined. |
+| **Main Flow** | 1. Recruiter creates the job and selects the predefined pipeline stages. 2. Recruiter pushes the job to the **Branded Career Page** and external job boards (P1/P3). 3. Hiring Manager views and collaborates on candidates in the pipeline. 4. Recruiter or Manager moves the candidate between customized stages. 5. System triggers automated communications based on stage changes (P2). |
+| **Post-conditions** | The job is live and accepting applications. Candidate status is accurately tracked in the **Centralized Database** (P1). |
+
+### 2. Submit Interview Feedback (Structured)
+
+| Detail | Description |
+| :--- | :--- |
+| **Goal** | To allow interviewers to quickly and objectively evaluate a candidate based on defined competencies and submit a final recommendation. |
+| **Actors** | Hiring Manager, Internal Employee (Interviewer), Recruiter / HR |
+| **Pre-conditions** | The candidate has completed an interview. The interviewer has been assigned the candidate and the correct **Interview Scorecard** for the specific interview stage. |
+| **Main Flow** | 1. Interviewer accesses the candidate profile and the mandatory scorecard. 2. Interviewer rates the candidate on specific, predefined competencies using a standardized scale. 3. Interviewer submits a final "Hire," "No Hire," or "Maybe" recommendation. 4. **(Structured Component):** The system prevents the interviewer from accessing or submitting feedback without rating all mandatory fields. 5. The feedback is logged instantly to the centralized candidate profile (P1). |
+| **Post-conditions** | The candidate profile contains a complete, structured record of feedback necessary for the final decision/debrief (P2). |
+
+### 3. View Internal Jobs
+
+| Detail | Description |
+| :--- | :--- |
+| **Goal** | To provide existing employees with a simple, private way to discover and apply for internal openings. |
+| **Actors** | Internal Employee |
+| **Pre-conditions** | The employee is logged into the system (or accessed via a verified internal link). The job is flagged for **Internal Posting** (P2). |
+| **Main Flow** | 1. Internal Employee navigates to the "Internal Career Portal" view. 2. Employee browses roles, seeing details like department and required skills. 3. Employee clicks "Apply," triggering a **simplified application flow** that requires minimal data entry. 4. Employee receives an automated confirmation tailored for internal applicants (P2). |
+| **Post-conditions** | The internal candidate's profile is created/updated in the pipeline, flagged specifically as an internal applicant. |
