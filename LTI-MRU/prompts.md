@@ -50,3 +50,18 @@ Create a Use Case diagram in markdown format (Using PlanUML)
 
 Now, list me the three most important use cases, tell me why they are the most importants and give a description of each one in markdown format.
 
+## USER PROMPT 7
+
+Now that you are an expert software architect, you need to define all the entities required for this project to create the database.
+
+List all the required identities, along with their corresponding attributes.
+
+## USER PROMPT 8
+
+ok, think more and explore which other entities we could need for this project, and then update the list.
+
+Make the database model and show me in markdown format (.md) using plantuml.
+
+## USER PROMPT 9
+
+xxx
