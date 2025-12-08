@@ -64,4 +64,28 @@ Make the database model and show me in markdown format (.md) using plantuml.
 
 ## USER PROMPT 9
 
-xxx
+As an expert software architect, which architecture should we consider for this project?
+
+## USER PROMPT 10
+
+ok, make a microservice architecture diagram for this ATS project.
+The Frontend side communicates through the API
+Include load balancing, Gateway, CDN and Authentication.
+
+## USER PROMPT 11
+
+Show a list with all the components we will need for this ATS software.
+Sort them from the frontend side to the backend side
+Show me using markdown (.md)
+
+## USER PROMPT 12
+
+Now, I need you to create a C4 diagram.
+
+According to the ATS Project, which component do you think is perfect to represent the 4 layers for this diagram?
+
+## USER PROMPT 13
+
+ok, improve the C4 diagrams using this ATS diagram, improve the first levels and complete the next two.
+Show me the diagram in markdown (.md)
+[microservice-architecture-diagram.png]
